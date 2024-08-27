@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Typescript, Tailwind CSS， ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://shaynewx.github.io/](https://shaynewx.github.io/)
+- 👨‍💻 All of my projects are available at [Shayne](https://shaynewx.github.io/)
 
 - 💬 Ask me about **C/C++, Python, React, AI**
 
 - 📫 How to reach me **shayne.wx1997@gmail.com**
 
-- 📄 Know about my experiences [https://shaynewx.github.io/resume/](https://shaynewx.github.io/resume/)
+- 📄 Know about my experiences [Shayne's resume/](https://shaynewx.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
