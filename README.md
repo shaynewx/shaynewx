@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shayne</h1>
+<h1 align="center">
+  Hi 👋, I'm Shayne
+  <img src=line_puppy.gif >
+</h1>
 <h3 align="center">A freshly graduated aspiring front-end developer</h3>
 
 - 🔭 I’m currently working on [SpotFinder](https://longsizhuo.com/)
