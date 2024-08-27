@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Shayne
-  <img src=line_puppy.gif >
+  <img src=line_puppy.gif alt="Wave GIF" width="100" height="100" style="vertical-align: middle; margin-left: 10px;">
 </h1>
 <h3 align="center">A freshly graduated aspiring front-end developer</h3>
 
