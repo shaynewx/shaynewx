@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shayne.wx1997@gmail.com**
 
-- 📄 Know about my experiences [Shayne's resume/](https://shaynewx.github.io/resume/)
+- 📄 Know about my experiences [Shayne's resume](https://shaynewx.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
