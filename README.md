@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shayne</h1>
 <h3 align="center">A freshly graduated aspiring front-end developer</h3>
 
-- 🔭 I’m currently working on [SpotFinder](https://longsizhuo.com/)
+- 🔭 I’m currently working on [Scypher](https://scypher.co/)
 
-- 🌱 I’m currently learning **Typescript, Tailwind CSS， ReactNative**
+- 🌱 I’m currently learning **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://shaynewx.github.io/](https://shaynewx.github.io/)
 
-- 💬 Ask me about **C/C++, Python, React, AI**
+- 💬 Ask me about **React,Next.js, Gastby C/C++, Python, AI**
 
 - 📫 How to reach me **shayne.wx1997@gmail.com**
 
