@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shayne</h1>
+<h1 align="center">
+  Hi 👋, I'm Shayne
+  <img src=line_puppy.gif alt="Wave GIF" width="100" height="100" style="vertical-align: middle; margin-left: 10px;">
+</h1>
 <h3 align="center">A freshly graduated aspiring front-end developer</h3>
 
 - 🔭 I’m currently working on [Scypher](https://scypher.co/)
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://shaynewx.github.io/](https://shaynewx.github.io/)
+- 👨‍💻 All of my projects are available at [Shayne](https://shaynewx.github.io/)
 
 - 💬 Ask me about **React,Next.js, Gastby C/C++, Python, AI**
 
 - 📫 How to reach me **shayne.wx1997@gmail.com**
 
-- 📄 Know about my experiences [https://shaynewx.github.io/resume/](https://shaynewx.github.io/resume/)
+- 📄 Know about my experiences [Shayne's resume](https://shaynewx.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shayne wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayne wang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shayne-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayne-wang" height="30" width="40" /></a>
 <a href="https://instagram.com/shayne_xuanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayne_xuanw" height="30" width="40" /></a>
 </p>
 
