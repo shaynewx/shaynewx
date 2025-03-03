@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Scypher](https://scypher.co/)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [Shayne](https://shaynewx.github.io/)
 
