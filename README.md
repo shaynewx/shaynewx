@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Shayne](https://shaynewx.github.io/)
 
-- 💬 Ask me about **React,Next.js, Gastby, C/C++, Python, AI**
+- 💬 Ask me about **React,Next.js, Gastby, C/C++, Rust, Python, AI**
 
 - 📫 How to reach me **shayne.wx1997@gmail.com**
 
